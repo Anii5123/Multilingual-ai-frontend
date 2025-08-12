@@ -1,0 +1,6 @@
+{
+  "login": { "title": "Login", "email": "Email", "password": "Password", "button": "Login" },
+  "register": { "title": "Register", "name": "Name", "email": "Email", "password": "Password", "button": "Register" },
+  "profile": { "title": "Profile Setup", "relationship": "Select Relationship", "language": "Preferred Language", "avatar": "Upload Avatar", "saveButton": "Save Profile" },
+  "settings": { "title": "Settings & Personalization", "saveButton": "Save Settings", "saved":"Settings saved" }
+}
